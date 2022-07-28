@@ -346,7 +346,7 @@ As someone who is just getting started with frontend testing, I prefer to use an
 
 <br/>
 
-<img src="./assets/tools_overview.svg" alt=""/> 
+<img src="./assets/tools_overview.png" alt="" width=800/> 
 
 <br/>
 Links to the above tools:
@@ -367,7 +367,7 @@ Links to the above tools:
 
 UI testing is important because if the app's user interface encounters a scenario that isn't handled by the code, it can leave the user abandoned, bring a bad name to the product, and have financial consequences.
 
-It’s simple and easy to get started with automated UI tests. They are nothing nut JS code. The application UI needs to be tested at different levels – unit (smallest piece of code), integration (logically grouped modules) and end-to-end (simulating user behaviour).
+It’s simple and easy to get started with automated UI tests. They are nothing but JS code. The application UI needs to be tested at different levels – unit (smallest piece of code), integration (logically grouped modules) and end-to-end (simulating user behaviour).
 
 Writing test cases require a test runner, assertion library, & mocks, spies or stubs. One can either pick these independently or go for a tool that ships will all the required components.
 
