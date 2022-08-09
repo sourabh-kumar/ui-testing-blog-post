@@ -107,6 +107,10 @@ Consider the following UI:
 
 <img src="./assets/login_example.png" width=500/>
 
+<br/>
+
+>Source: https://flipkart.com 
+
 - **Unit Testing** validating components such as input fields, links, buttons and login API function in isolation with faked foreign interactions such as API calls, etc.
 
 - **Integration testing** would be validating the whole login form.
